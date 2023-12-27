@@ -3,3 +3,4 @@
 .DS_Store
 .idea
 .vitepress/cache
+auto_commit.sh
